@@ -1,0 +1,2 @@
+# Dockerimage with curl and other utilities
+Image is used in supabase deployment and contains some utilities that help with provisioning
